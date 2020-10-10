@@ -38,11 +38,11 @@ abstract: |
   Este trabalho estuda a relação entre a velocidade de carros (mph) e a distancia (pés) que eles levaram para parar completamente. Utilizamos o modelo de regressão linear simples para determinar se existe relação entre estas duas variáveis.
 
 # arquivo com a bibliografia do relatorio
-bibliography: modeloLEA.bib
+bibliography: modeloUFCG.bib
 
 output: 
   bookdown::pdf_book:
-    base_format: modeloLEA::modeloLEA
+    base_format: modeloUFCG::modeloUFCG
 ---
 
 

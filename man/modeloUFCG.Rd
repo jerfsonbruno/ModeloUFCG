@@ -36,7 +36,7 @@ O arquivo de exemplo do pacote possui um relatório fictício com estas opções
 }
 \examples{
 \dontrun{
-rmarkdown::draft("MyArticle.Rmd", template = "pdf", package = "modeloLEA")
+rmarkdown::draft("MyArticle.Rmd", template = "pdf", package = "modeloUFCG")
 rmarkdown::render("MyArticle.Rmd")
 }
 }

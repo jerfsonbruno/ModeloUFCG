@@ -12,7 +12,7 @@
 
 
 \NeedsTeXFormat{LaTeX2e}[2005/12/01]
-\ProvidesClass{modeloLEA}
+\ProvidesClass{modeloUFCG}
               [2005/12/01 v1.1
  Standard LaTeX document class]
 
@@ -411,7 +411,7 @@
 \clearpage\lastpage@putlabel}%
 
 \def\jname#1{\gdef\@jname{#1}}
-\def\@jname{modeloLEA}
+\def\@jname{modeloUFCG}
 
 \sodef\stitletrack{}{0.11em}{0.5em}{\z@}
 
@@ -493,7 +493,7 @@
 }
 
 % \def\ps@plain{\vskip-3pc\let\@mkboth\@gobbletwo
-%         %\def\@oddfoot{\noindent\raisebox{-7.5pt}{\hskip-12.8pt\includegraphics{modeloLEA_Pubs_Logo_Line_CMYK}}
+%         %\def\@oddfoot{\noindent\raisebox{-7.5pt}{\hskip-12.8pt\includegraphics{modeloUFCG_Pubs_Logo_Line_CMYK}}
 %         \def\@oddfoot{\noindent\raisebox{-7.5pt}{\hskip-12.8pt}
 %         \ifopenacc
 %            \hskip28.8pt\colorbox{copyrightcolor}{\hbox to 75mm{\fontfamily{\sfdefault}\fontseries{m}\fontshape{n}\fontsize{7.5}{10}\selectfont 
