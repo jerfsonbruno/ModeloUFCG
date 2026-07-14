@@ -1,0 +1,19 @@
+Package: modeloUFCG
+Type: Package
+Title: Modelo de Relatorio para UAest-UFCG
+Version: 0.6.0
+Date: 2019-09-05
+Author: Jerfson
+Maintainer: Marcus Nunes <marcus@marcusnunes.me>
+Depends:
+  R (>= 3.5.0)
+Description: Um estilo de relatorio tipo 'Royal Society Open Science' 
+  da Royal Society Publishing, usando 'rmarkdown'. Foi projetado
+  com 'LaTeX', em mente, para geracao de pdfs. Fortemente baseado no 
+ modelo do professor Marcus Nunes <marcus@marcusnunes.me> 
+  e adaptado para o uso pessoal. 
+URL: https://github.com/jerfsonbruno/ModeloUFCG
+Imports: rmarkdown, knitr, xfun, yaml
+Suggests: ggplot2, ggfortify, bookdown, GGally, corrplot, broom, hnp
+License: MIT + file LICENSE
+Encoding: UTF-8

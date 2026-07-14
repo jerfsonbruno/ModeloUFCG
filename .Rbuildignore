@@ -1,0 +1,5 @@
+^\.claude$
+^LICENSE\.md$
+^README\.md$
+^\.git$
+^\.gitignore$
