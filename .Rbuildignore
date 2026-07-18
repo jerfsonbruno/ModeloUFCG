@@ -3,3 +3,7 @@
 ^README\.md$
 ^\.git$
 ^\.gitignore$
+^_extensions$
+^python$
+^_quarto\.yml$
+^\.quarto$

@@ -14,6 +14,6 @@ Description: Um estilo de relatorio tipo 'Royal Society Open Science'
   e adaptado para o uso pessoal. 
 URL: https://github.com/jerfsonbruno/ModeloUFCG
 Imports: rmarkdown, knitr, xfun, yaml
-Suggests: ggplot2, ggfortify, bookdown, GGally, corrplot, broom, hnp
+Suggests: ggplot2, ggfortify, bookdown, GGally, corrplot, broom, hnp, lm.beta
 License: MIT + file LICENSE
 Encoding: UTF-8

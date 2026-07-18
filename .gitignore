@@ -3,3 +3,9 @@
 .RData
 .Ruserdata
 .claude
+
+/.quarto/
+**/*.quarto_ipynb
+python/relatorio.pdf
+python/relatorio.tex
+python/relatorio_files/
